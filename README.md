@@ -19,4 +19,8 @@ Mihail Karaganev, 160179 vutroll
 
 Borislav Stoyanov, 160072, 160072 
 
+Todor Stoev, 160116, toshaga
+
+Valentina Vasileva, 160105, valentina160105
+
 Aleksandar TSalov 160177  githubID: atsalov
