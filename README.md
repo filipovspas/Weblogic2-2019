@@ -18,4 +18,5 @@ Aleksandar TSalov, 160177, atsalov\
 Valentin Bahchevanov, 160180, \
 Tanya Koleva, 160068, tanyakoleva\
 Nikola Nikolaev Gavrilov, 160111, domat1\
+Teodor Dimitrov Todorov, 160086, ttodorov413\
 ================ End of Students who took part in class work ===========\
